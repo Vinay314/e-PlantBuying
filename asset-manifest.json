@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5f7f8c1.css",
-    "main.js": "/static/js/main.f9afd57c.js",
-    "static/media/spider plant.jpg": "/static/media/spider plant.d1ac59bdd9063e3b16bf.jpg",
-    "static/media/Fiddel Leaf.jpg": "/static/media/Fiddel Leaf.ba1cd7a04b08b554cb2a.jpg",
-    "static/media/boston fern.jpg": "/static/media/boston fern.1f9fabda2a62bac509f5.jpg",
-    "static/media/snake_plant.jpeg": "/static/media/snake_plant.9b5776dde310d6f1e708.jpeg",
-    "static/media/peace lily.png": "/static/media/peace lily.bcf27015d594ae3c35d4.png",
-    "static/media/aloe_vera.jpg": "/static/media/aloe_vera.cb9f484c8b1ed74d2c4c.jpg",
-    "index.html": "/index.html",
-    "main.e5f7f8c1.css.map": "/static/css/main.e5f7f8c1.css.map",
-    "main.f9afd57c.js.map": "/static/js/main.f9afd57c.js.map"
+    "main.css": "/e-PlantBuying/static/css/main.e5f7f8c1.css",
+    "main.js": "/e-PlantBuying/static/js/main.caaaa178.js",
+    "static/media/spider plant.jpg": "/e-PlantBuying/static/media/spider plant.d1ac59bdd9063e3b16bf.jpg",
+    "static/media/Fiddel Leaf.jpg": "/e-PlantBuying/static/media/Fiddel Leaf.ba1cd7a04b08b554cb2a.jpg",
+    "static/media/boston fern.jpg": "/e-PlantBuying/static/media/boston fern.1f9fabda2a62bac509f5.jpg",
+    "static/media/snake_plant.jpeg": "/e-PlantBuying/static/media/snake_plant.9b5776dde310d6f1e708.jpeg",
+    "static/media/peace lily.png": "/e-PlantBuying/static/media/peace lily.bcf27015d594ae3c35d4.png",
+    "static/media/aloe_vera.jpg": "/e-PlantBuying/static/media/aloe_vera.cb9f484c8b1ed74d2c4c.jpg",
+    "index.html": "/e-PlantBuying/index.html",
+    "main.e5f7f8c1.css.map": "/e-PlantBuying/static/css/main.e5f7f8c1.css.map",
+    "main.caaaa178.js.map": "/e-PlantBuying/static/js/main.caaaa178.js.map"
   },
   "entrypoints": [
     "static/css/main.e5f7f8c1.css",
-    "static/js/main.f9afd57c.js"
+    "static/js/main.caaaa178.js"
   ]
 }
